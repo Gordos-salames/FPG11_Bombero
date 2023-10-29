@@ -17,10 +17,10 @@ import java.util.ArrayList;
 import java.util.Date;
 
 public class CuartelBomberos {
+   
     public static void main(String[] args) throws ParseException {
         
-        
-       /* CuartelData cuartelData = new CuartelData();
+    CuartelData cuartelData = new CuartelData();
 
     Cuartel nuevoCuartel = new Cuartel();
     nuevoCuartel.setNombreCuartel("Cuartel de Prueba");
@@ -29,17 +29,9 @@ public class CuartelBomberos {
     nuevoCuartel.setCoordY(456);
     nuevoCuartel.setTelefono("123-456-789");
     nuevoCuartel.setCorreo("correo@prueba.com");
-    cuartelData.guardarCuartel(nuevoCuartel);*/
+    cuartelData.guardarCuartel(nuevoCuartel);
         
-        
-        
-        
-        
-        
-        
-        
-        
-        /*BrigadaData brigadaData = new BrigadaData();
+    /*BrigadaData brigadaData = new BrigadaData();
 
     Brigada nuevaBrigada = new Brigada("Brigada de Rescates", "Especialidad de Rescates", true, 1);
     brigadaData.guardarBrigada(nuevaBrigada);*/
